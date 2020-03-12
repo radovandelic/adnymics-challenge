@@ -1,0 +1,6 @@
+Mar  2 10:14:26 adnymics sudo:     userA : TTY=pts/0 ; PWD=/mnt/adnymics-task/backend ; USER=root ; COMMAND=/usr/local/bin/npm install -g nodemon
+Mar  3 10:14:26 adnymics sudo:     userA : TTY=pts/0 ; PWD=/mnt/adnymics-task/backend ; USER=root ; COMMAND=/usr/local/bin/npm install -g nodemon
+Mar  2 10:14:26 adnymics sudo:     userB : TTY=pts/0 ; PWD=/mnt/adnymics-task/backend ; USER=root ; COMMAND=/bin/mkdir example
+Mar  2 10:14:26 adnymics sudo:     userB : TTY=pts/0 ; PWD=/mnt/adnymics-task/backend ; USER=root ; COMMAND=/bin/ls
+Mar  2 10:14:26 adnymics sudo:     userA : TTY=pts/0 ; PWD=/mnt/adnymics-task/backend ; USER=root ; COMMAND=/bin/ps aux
+Mar  5 15:19:44 adnymics sudo:     userB : TTY=pts/3 ; PWD=/home/serg ; USER=root ; COMMAND=/bin/ls
